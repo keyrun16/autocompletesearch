@@ -11,12 +11,12 @@ p {
   max-height: 300px;
   overflow: auto;
   border: 1px solid #e5e5e5;
-  padding: 5px;
 }
 .record {
-  padding: 2px;
+  padding: 5px;
 }
 
-.record:hover {
+.record:hover,
+.record.active {
   background-color: #c9c9c9;
 }
