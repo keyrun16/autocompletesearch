@@ -1,0 +1,22 @@
+h1,
+p {
+  font-family: Lato;
+}
+.serachInput,
+.searchContainer {
+  width: 300px;
+}
+
+.searchContainer {
+  max-height: 300px;
+  overflow: auto;
+  border: 1px solid #e5e5e5;
+  padding: 5px;
+}
+.record {
+  padding: 2px;
+}
+
+.record:hover {
+  background-color: #c9c9c9;
+}
